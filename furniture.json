@@ -1,0 +1,242 @@
+[
+    {
+        "name" : "Barrett Bed",
+        "category" : "Bed",
+        "price" : "16950.25",
+        "imgSrc" : "images/barettbed.png"
+    },
+    {
+        "name" : "Canora Grey Bed",
+        "category" : "Bed",
+        "price" : "10050.75",
+        "imgSrc" : "images/canoragrey.png"
+    },
+    {
+        "name" : "Sleigh Bed",
+        "category" : "Bed",
+        "price" : "13774.00",
+        "imgSrc" : "images/sleigh-bed.png"
+    },
+    {
+        "name" : "Lindos bed",
+        "category" : "Bed",
+        "price" : "14570.75",
+        "imgSrc" : "images/bed.png"
+    },
+    {
+        "name" : "Carina Bed",
+        "category" : "Bed",
+        "price" : "13790.00",
+        "imgSrc" : "images/carinabed.png"
+    },
+    {
+        "name" : "B1273 Bed",
+        "category" : "Bed",
+        "price" : "17245.50",
+        "imgSrc" : "images/B1273bed.png"
+    },
+    {
+        "name" : "Esther Bed",
+        "category" : "Bed",
+        "price" : "15500.50",
+        "imgSrc" : "images/estherbed.png"
+    },
+    {
+        "name" : "Mercer Bed",
+        "category" : "Bed",
+        "price" : "11990.75",
+        "imgSrc" : "images/Mercerbed.png"
+    },
+    {
+        "name" : "Emilio Fabric - Hazel",
+        "category" : "Sofa",
+        "price" : "10749.25",
+        "imgSrc" : "images/emiliosofa.png"
+    },
+    {
+        "name" : "Cassia Fabric - Steel",
+        "category" : "Sofa",
+        "price" : "19990.99",
+        "imgSrc" : "images/cassiasofa.png"
+    },
+    {
+        "name" : "Marlo Fabric Sofa - Grey",
+        "category" : "Sofa",
+        "price" : "21234.20",
+        "imgSrc" : "images/marlosofa.png"
+    },
+    {
+        "name" : "Harrieth Fabric Sofa - Truffle",
+        "category" : "Sofa",
+        "price" : "22720.99",
+        "imgSrc" : "images/harriethsofa.png"
+    },
+    {
+        "name" : "Harmony Fabric - Enzo Slate",
+        "category" : "Sofa",
+        "price" : "25000.25",
+        "imgSrc" : "images/harmonysofa.png"
+    },
+    {
+        "name" : "Brooklyn Fabric - Denim",
+        "category" : "Sofa",
+        "price" : "10981.99",
+        "imgSrc" : "images/brooklynd.png"
+    },
+    {
+        "name" : "Brooklyn Fabric - Hazel",
+        "category" : "Sofa",
+        "price" : "7450.80",
+        "imgSrc" : "images/brooklynh.png"
+    },
+    {
+        "name" : "Cadiz Full Leather - Light Grey",
+        "category" : "Sofa",
+        "price" : "8885.00",
+        "imgSrc" : "images/cadizsofa.png"
+    },
+    {
+        "name" : "High Black Leather Chair",
+        "category" : "Office Chair",
+        "price" : "6350.50",
+        "imgSrc" : "images/highblack.png"
+    },
+    {
+        "name" : "Solimo Accord Chair",
+        "category" : "Office Chair",
+        "price" : "9300.45",
+        "imgSrc" : "images/solimo.png"
+    },
+    {
+        "name" : "Vivan Enterio Sigma Chair",
+        "category" : "Office Chair",
+        "price" : "5470.50",
+        "imgSrc" : "images/vivan.png"
+    },
+    {
+        "name" : "Grace Mesh Chair",
+        "category" : "Office Chair",
+        "price" : "7600.99",
+        "imgSrc" : "images/grace.png"
+    },
+    {
+        "name" : "Krisskross Sierra Chair",
+        "category" : "Office Chair",
+        "price" : "78125.99",
+        "imgSrc" : "images/sierra.png"
+    },
+    {
+        "name" : "Caddy Chair",
+        "category" : "Office Chair",
+        "price" : "10654.99",
+        "imgSrc" : "images/caddy.png"
+    },
+    {
+        "name" : "Zebra Office Chair",
+        "category" : "Office Chair",
+        "price" : "9990.99",
+        "imgSrc" : "images/zebra.png"
+    },
+    {
+        "name" : "Marvel Office Chair",
+        "category" : "Office Chair",
+        "price" : "2356.99",
+        "imgSrc" : "images/marvel.png"
+    },
+    {
+        "name" : "Oskie Lamar Cabinet",
+        "category" : "Cabinet",
+        "price" : "35990.99",
+        "imgSrc" : "images/oskie.png"
+    },
+    {
+        "name" : "Mini Roupiero Cabinet",
+        "category" : "Cabinet",
+        "price" : "6995.99",
+        "imgSrc" : "images/mini.png"
+    },
+    {
+        "name" : "Naldi Children Cabinet",
+        "category" : "Cabinet",
+        "price" : "7985.99",
+        "imgSrc" : "images/naldi.png"
+    },
+    {
+        "name" : "Myrtle Door Wardrobe",
+        "category" : "Cabinet",
+        "price" : "12897.99",
+        "imgSrc" : "images/wardrobe.png"
+    },
+    {
+        "name" : "Wooden Armchair",
+        "category" : "Wooden Armchair",
+        "price" : "7000.00",
+        "imgSrc" : "images/wooden-armchair.png"
+    },
+    {
+        "name" : "Wing Chair",
+        "category" : "Chair",
+        "price" : "8500.00",
+        "imgSrc" : "images/wing-chair.png"
+    },
+    {
+        "name" : "Armchair",
+        "category" : "Chair",
+        "price" : "4369.00",
+        "imgSrc" : "images/armchair.png"
+    },
+    {
+        "name" : "White Armchair",
+        "category" : "Chair",
+        "price" : "8880.00",
+        "imgSrc" : "images/white-armchair.png"
+    },
+    {
+        "name" : "White Armchair",
+        "category" : "Chair",
+        "price" : "8880.00",
+        "imgSrc" : "images/bench.png"
+    },
+    {
+        "name" : "Desk",
+        "category" : "Desk",
+        "price" : "6000.00",
+        "imgSrc" : "images/desk.png"
+    },
+    {
+        "name" : "Desk",
+        "category" : "Desk",
+        "price" : "6700.00",
+        "imgSrc" : "images/desk1.png"
+    },
+    {
+        "name" : "Desk",
+        "category" : "Desk",
+        "price" : "6700.00",
+        "imgSrc" : "images/desk2.png"
+    },
+    {
+        "name" : "Bunk Bed",
+        "category" : "Bed",
+        "price" : "17800.00",
+        "imgSrc" : "images/bunk-bed.png"
+    },
+    {
+        "name" : "Wooden Table",
+        "category" : "Table",
+        "price" : "5900.00",
+        "imgSrc" : "images/wooden-table.png"
+    },
+    {
+        "name" : "Wooden Dining Table",
+        "category" : "Dining Table",
+        "price" : "25050.00",
+        "imgSrc" : "images/wooden-dining-table.png"
+    },
+    {
+        "name" : "Cushio",
+        "category" : "Cushion",
+        "price" : "1900.00",
+        "imgSrc" : "images/cushion.png"
+    }
+]
